@@ -1,0 +1,134 @@
+.container{
+  width: 567px;
+  height: fit-content;
+  
+  margin-left: 30px;
+}
+h3{
+  text-align: center;
+  color: blueviolet;
+}
+.searchbox{
+  width: 567px;
+  height: 40px;
+  border: 1px solid;
+  background-color: aquamarine;
+  
+}
+.table{
+  margin-top: 15px;
+  width: 567px;
+  height: fit-content;
+  text-align: center;
+  border: 1px solid;
+  border-collapse: collapse;
+}
+.inputsearch{
+  border:1px solid;
+  border-radius: 5px;
+  width: 200px;
+  height: 25px;
+  margin-left: 5px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  background-color: antiquewhite;
+}
+.addbtn{
+  float:right;
+  border: 1px solid;
+  border-radius: 5px;
+  font-size: 12px;
+  line-height: 15px;
+  margin-top: 5px;
+  width: 67px;
+  margin-right: 5px;
+  background-color: rgb(237, 17, 127);
+}
+th{
+  border:1px solid;
+  font-size: 15px;
+  line-height: 20px;
+  background-color: rgb(206, 239, 22);
+}
+td{
+  border:1px solid;
+  font-size: 15px;
+  line-height: 18px;
+}
+tr:nth-child(even){
+  background-color: rgb(250, 172, 78);
+}
+.addeditPopup{
+  width: 300px;
+  height: 300px;
+  border: 1px solid;
+  background-color:lightgoldenrodyellow;
+}
+.closeBtn{
+  float:right;
+  font-size: 25px;
+  line-height: 23px;
+  margin-right: 5px;
+  color: red;
+}
+h4{
+  text-align: center;
+  margin-top: 5px;
+  border: 1px solid;
+  border-radius: 5px;
+  margin-left: 15px;
+  margin-right: 25px;
+  background-color:chocolate ;
+  color: aliceblue;
+}
+.popupdiv{
+  margin-left: 15px;
+}
+.popupinput{
+  border: 1px solid;
+  border-radius: 5px;
+  height: 25px;
+  width: 180px;
+  background-color:azure;
+}
+.addStudent{
+  border: 1px solid;
+  border-radius: 5px;
+  font-size: 12px;
+  line-height: 15px;
+  background-color: rgb(237, 17, 127);
+  margin-left: 15px;
+}
+.paginationdiv{
+  margin-top: 5px;
+
+}
+.paginationBtn{
+  border: 1px solid;
+  border-radius: 5px;
+  font-size: 12px;
+  line-height: 15px;
+  background-color: rgb(235, 62, 149);
+  margin-left: 15px;
+}
+.indx{
+  margin-left: 5px;
+}
+.editBtn{
+  border: 1px solid;
+  border-radius: 5px;
+  font-size: 12px;
+  line-height: 10px;
+  width: 67px;
+  background-color: rgb(200, 233, 217);
+}
+.deleteBtn{
+  border: 1px solid;
+  border-radius: 5px;
+  font-size: 12px;
+  line-height: 10px;
+  width: 62px;
+  background-color: rgb(209, 203, 242);
+}
+
+
